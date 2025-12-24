@@ -10,7 +10,7 @@
 <br />
 
 
-<p align="center">
+<p align="center">       
   <a href="https://www.twenty.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twentyhq/twenty/refs/heads/main/packages/twenty-website/public/images/readme/github-cover-dark.png" />
